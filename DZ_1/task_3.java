@@ -40,7 +40,7 @@ public class task_3 {
                 break;
             }
         }
-        System.out.println(result);
+        System.out.printf("Ответ: " + result + "\n");
         iScanner.close();
     }
 }
