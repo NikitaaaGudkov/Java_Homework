@@ -3,7 +3,7 @@ package DZ_3;
 import java.util.ArrayList;
 import java.util.Random;
 
-// Пусть дан произвольный список целых чисел, удалить из него чётные числа
+// 2. Пусть дан произвольный список целых чисел, удалить из него чётные числа
 
 public class task_2 {
     public static void main(String[] args) {
